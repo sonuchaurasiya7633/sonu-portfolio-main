@@ -163,7 +163,7 @@ export const education = [
     img: vpsLogo,
     school: "west Bengal board",
     date: "Apr 2019 - March 2021",
-    grade: "76.4%",
+    grade: "69%",
     desc: "I completed my class 12 education from west Bengal board, under the west Bengal board , where I studied All Arts Subject ",
     degree: "BSEB(XII), All Subject ",
   },
