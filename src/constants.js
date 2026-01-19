@@ -165,7 +165,7 @@ export const education = [
     date: "Apr 2019 - March 2021",
     grade: "69%",
     desc: "I completed my class 12 education from west Bengal board, under the west Bengal board , where I studied All Arts Subject ",
-    degree: "BSEB(XII), All Subject ",
+    degree: "WBSE(XII), All Subject ",
   },
   {
     id: 2,
@@ -174,7 +174,7 @@ export const education = [
     date: "Apr 2018 - March 2019",
     grade: "50%",
     desc: "I completed my class 10 education from west Bengal board, under the west Bengal board , where I studied All Subject ",
-    degree: "BSEB(X), All Subject ",
+    degree: "WBSE(X), All Subject ",
   }
 ];
 
