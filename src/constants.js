@@ -38,9 +38,9 @@ import webverseLogo from "./assets/company_logo/webverse_logo.png";
 import agcLogo from "./assets/company_logo/agc_logo.png";
 
 // Education Section Logo's
-import glaLogo from "./assets/education_logo/gla_logo.png";
-import bsaLogo from "./assets/education_logo/bsa_logo.png";
-import vpsLogo from "./assets/education_logo/vps_logo.png";
+import glaLogo from "./assets/education_logo/kaji.jpg";
+
+import vpsLogo from "./assets/education_logo/weng.jpg";
 
 // Project Section Logo's
 import githubdetLogo from "./assets/work_logo/github_det.png";
@@ -152,31 +152,30 @@ export const education = [
   {
     id: 0,
     img: glaLogo,
-    school: "Jagannath University, jaipur",
-    date: "Sept 2023 - July 2027",
-    grade: "8.5 CGPA",
-    desc: "I am currently pursuing my B.Tech in Computer Science and Engineering from Jagannath University, Jaipur. I have built a strong base in programming, data structures, algorithms, OOP, DBMS, and web development,Along with academics, I actively participate in technical workshops and coding events, which help me enhance my skills and practical knowledge,My time at the university is helping me grow as a developer and preparing me for a career in the IT industry.",
-    degree: "Bachelor of Engineering And Technology - B.Tech",
+    school: "Kazi nazrul university",
+    date: "Sept 2021 - July 2024",
+    grade: "7.9 CGPA",
+    desc: "I am completed my Graduation in History Honours from Kazi nazrul university.",
+    degree: "Graduation- History Honours",
   },
-
+  {
+    id: 1,
+    img: vpsLogo,
+    school: "west Bengal board",
+    date: "Apr 2019 - March 2021",
+    grade: "76.4%",
+    desc: "I completed my class 12 education from west Bengal board, under the west Bengal board , where I studied All Arts Subject ",
+    degree: "BSEB(XII), All Subject ",
+  },
   {
     id: 2,
-    img: bsaLogo,
-    school: "M.L.S.M College, Darbhanga",
-    date: "Sept 2019  - Aug 2021",
-    grade: "81%",
-    desc: "I completed my class 12 education from M.L.S.M College, Darbhanga , under the BSEB board, where I studied Physics, Chemistry, and Mathematics (PCM) with bIOLOGY.",
-    degree: "BSEB(XII) - PCM with BIOLOGY",
-  },
-  {
-    id: 3,
     img: vpsLogo,
-    school: "U.M.T School Sanahpur, Darbhanga",
+    school: "west Bengal board",
     date: "Apr 2018 - March 2019",
-    grade: "76.4%",
-    desc: "I completed my class 10 education from U.M.T School Sanahpur,  Darbhanga, under the BSEB board, where I studied All Subject ",
+    grade: "50%",
+    desc: "I completed my class 10 education from west Bengal board, under the west Bengal board , where I studied All Subject ",
     degree: "BSEB(X), All Subject ",
-  },
+  }
 ];
 
 export const projects = [
